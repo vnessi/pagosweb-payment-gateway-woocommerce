@@ -1,0 +1,1 @@
+Plugin para Woocommerce utilizando el Gateway de pagos PagosWeb.
