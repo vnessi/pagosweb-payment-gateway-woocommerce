@@ -2,7 +2,7 @@
 PagosWeb Payment Gateway For WooCommerce
 Contributors:
 Donate link: 
-Tags: woocommerce PagosWeb, PagosWeb, payment gateway, woocommerce, woocommerce payment gateway
+Tags: woocommerce PagosWeb, PagosWeb, payment gateway, woocommerce, woocommerce payment gateway, payment gateway uruguay, pasarela de pagos
 Requires at least: 3.0.1
 Tested up to: 3.7
 Stable tag: 1.5
