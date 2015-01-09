@@ -1,0 +1,6 @@
+input.valid{
+    background: #9deb91;
+}
+input.invalid{
+    background: #eb91ae;
+}
